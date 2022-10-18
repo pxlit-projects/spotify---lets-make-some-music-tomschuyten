@@ -21,5 +21,6 @@ public enum Genre {
 	PANAMANIAN_POP,
 	CANADIAN_POP,
 	AUSTRALIAN_POP,
-	ATL_HIP_HOP
+	ATL_HIP_HOP;
+
 }
